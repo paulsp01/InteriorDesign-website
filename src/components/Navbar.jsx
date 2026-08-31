@@ -95,11 +95,12 @@ const Navbar = () => {
     </ul>
 
     <div className="mt-6">
-      <Link to="/consultation">
+      <Link to="/consultation" onClick={() => setIsOpen(false)}>
         <Button
           color="black"
           textColor="white"
           text="Consultation"
+          
         />
       </Link>
     </div>

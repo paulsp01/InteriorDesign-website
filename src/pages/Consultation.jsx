@@ -12,7 +12,7 @@ const Consultation = () => {
     }
   return (
     <div>
-      {/* Image */}
+    
       <div className="relative">
         <img src={img} className="w-full block" />
         <div className="absolute inset-x-0 bottom-0 h-1/2 bg-gradient-to-t from-white/90 via-white/40 to-transparent"></div>
