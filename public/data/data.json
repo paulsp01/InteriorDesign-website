@@ -7,7 +7,7 @@
     "year": 2026,
     "location": "Kolkata, India",
     "rating": 4.9,
-    "image": "/src/assets/data1.png"
+    "image": "/assets/data1.png"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "year": 2026,
     "location": "Mumbai, India",
     "rating": 4.8,
-    "image": "/src/assets/data2.png"
+    "image": "/assets/data2.png"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "year": 2025,
     "location": "Bangalore, India",
     "rating": 4.7,
-    "image": "/src/assets/data3.png"
+    "image": "/assets/data3.png"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "year": 2025,
     "location": "Delhi, India",
     "rating": 4.9,
-    "image": "/src/assets/data4.png"
+    "image": "/assets/data4.png"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "year": 2025,
     "location": "Pune, India",
     "rating": 4.6,
-    "image": "/src/assets/data5.png"
+    "image": "/assets/data5.png"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "year": 2025,
     "location": "Kolkata, India",
     "rating": 4.8,
-    "image": "/src/assets/data6.png"
+    "image": "/assets/data6.png"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "year": 2024,
     "location": "Hyderabad, India",
     "rating": 4.7,
-    "image": "/src/assets/data7.png"
+    "image": "/assets/data7.png"
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "year": 2024,
     "location": "Chennai, India",
     "rating": 4.9,
-    "image": "/src/assets/data8.png"
+    "image": "/assets/data8.png"
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "year": 2024,
     "location": "Bangalore, India",
     "rating": 4.6,
-    "image": "/src/assets/data9.png"
+    "image": "/assets/data9.png"
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
     "year": 2024,
     "location": "Mumbai, India",
     "rating": 5.0,
-    "image": "/src/assets/data10.png"
+    "image": "/assets/data10.png"
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "year": 2023,
     "location": "Kolkata, India",
     "rating": 4.8,
-    "image": "/src/assets/data11.png"
+    "image": "/assets/data11.png"
   },
   {
     "id": 12,
@@ -117,7 +117,7 @@
     "year": 2023,
     "location": "Delhi, India",
     "rating": 4.7,
-    "image": "/src/assets/data12.png"
+    "image": "/assets/data12.png"
   },
   {
     "id": 13,
@@ -127,7 +127,7 @@
     "year": 2023,
     "location": "Pune, India",
     "rating": 4.5,
-    "image": "/src/assets/data13.png"
+    "image": "/assets/data13.png"
   },
   {
     "id": 14,
@@ -137,7 +137,7 @@
     "year": 2023,
     "location": "Goa, India",
     "rating": 4.9,
-    "image": "/src/assets/data14.png"
+    "image": "/assets/data14.png"
   },
   {
     "id": 15,
@@ -147,7 +147,7 @@
     "year": 2022,
     "location": "Jaipur, India",
     "rating": 4.6,
-    "image": "/src/assets/data15.png"
+    "image": "/assets/data15.png"
   },
   {
     "id": 16,
@@ -157,7 +157,7 @@
     "year": 2022,
     "location": "Kolkata, India",
     "rating": 4.8,
-    "image": "/src/assets/data16.png"
+    "image": "/assets/data16.png"
   },
   {
     "id": 17,
@@ -167,7 +167,7 @@
     "year": 2022,
     "location": "Bangalore, India",
     "rating": 4.7,
-    "image": "/src/assets/data17.png"
+    "image": "/assets/data17.png"
   },
   {
     "id": 18,
@@ -177,7 +177,7 @@
     "year": 2022,
     "location": "Mumbai, India",
     "rating": 4.9,
-    "image": "/src/assets/data18.png"
+    "image": "/assets/data18.png"
   },
   {
     "id": 19,
@@ -187,7 +187,7 @@
     "year": 2021,
     "location": "Delhi, India",
     "rating": 4.8,
-    "image": "/src/assets/data19.png"
+    "image": "/assets/data19.png"
   },
   {
     "id": 20,
@@ -197,6 +197,6 @@
     "year": 2021,
     "location": "Kolkata, India",
     "rating": 4.7,
-    "image": "/src/assets/data20.png"
+    "image": "/assets/data20.png"
   }
 ]
