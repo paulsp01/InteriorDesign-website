@@ -1,7 +1,7 @@
 import React from 'react'
-import img from "../assets/img3.png"
-import img2 from "../assets/img7.png"
-import img3 from "../assets/img10.png"
+const img = "/assets/img3.png"
+const img2 = "/assets/img7.png"
+const img3 = "/assets/img10.png"
 import About from '../components/About'
 
 const Philosophy = () => {

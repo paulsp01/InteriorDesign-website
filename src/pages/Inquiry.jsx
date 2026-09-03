@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Button from "../components/Button";
-import img from "../assets/tower.png";
+const img = "/assets/tower.png";
 import { ChevronDown,X } from "lucide-react";
 import Popup from "../components/Popup";
 

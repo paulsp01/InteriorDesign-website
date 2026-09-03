@@ -1,7 +1,7 @@
 import React,{useState} from "react";
 import Popup from "../components/Popup";
 
-import img from "../assets/img9.png";
+const img = "/assets/img9.png";
 
 const Consultation = () => {
     const [state, setState] = useState("");

@@ -1,7 +1,7 @@
 import React from 'react'
-import img from "../assets/img2.png"
-import img1 from "../assets/img6.png"
-import img2 from "../assets/img5.png"
+const img = "/assets/img2.png"
+const img1 = "/assets/img6.png"
+const img2 = "/assets/img5.png"
 
 const Services = () => {
   return (
