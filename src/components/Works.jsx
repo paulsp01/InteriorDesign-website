@@ -8,7 +8,7 @@ const Works = () => {
 
   useEffect(() => {
     const fetchWorks = async () => {
-      const response = await fetch("src/data/data.json");
+      const response = await fetch("/data/data.json");
       console.log("response from work.jsx",response)
       const data = await response.json();
             console.log("data from work.jsx",data)
