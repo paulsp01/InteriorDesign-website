@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Minimal Living Room",
+    "category": "Living Room",
+    "description": "A clean and minimal living room designed with neutral tones, warm lighting, and contemporary furniture.",
+    "year": 2026,
+    "location": "Kolkata, India",
+    "rating": 4.9,
+    "image": "/src/assets/data1.png"
+  },
+  {
+    "id": 2,
+    "title": "Luxury Master Bedroom",
+    "category": "Bedroom",
+    "description": "A luxurious master bedroom featuring soft textures, wooden accents, and elegant ambient lighting.",
+    "year": 2026,
+    "location": "Mumbai, India",
+    "rating": 4.8,
+    "image": "/src/assets/data2.png"
+  },
+  {
+    "id": 3,
+    "title": "Scandinavian Apartment",
+    "category": "Residential",
+    "description": "A Scandinavian-inspired apartment combining natural materials, soft colors, and functional furniture.",
+    "year": 2025,
+    "location": "Bangalore, India",
+    "rating": 4.7,
+    "image": "/src/assets/data3.png"
+  },
+  {
+    "id": 4,
+    "title": "Contemporary Kitchen",
+    "category": "Kitchen",
+    "description": "A contemporary kitchen designed with sleek cabinets, marble surfaces, and smart storage solutions.",
+    "year": 2025,
+    "location": "Delhi, India",
+    "rating": 4.9,
+    "image": "/src/assets/data4.png"
+  },
+  {
+    "id": 5,
+    "title": "Elegant Dining Space",
+    "category": "Dining Room",
+    "description": "An elegant dining area created with warm wooden finishes, statement lighting, and sophisticated decor.",
+    "year": 2025,
+    "location": "Pune, India",
+    "rating": 4.6,
+    "image": "/src/assets/data5.png"
+  },
+  {
+    "id": 6,
+    "title": "Earthy Bedroom Retreat",
+    "category": "Bedroom",
+    "description": "A peaceful bedroom using earthy colors, natural textures, and soft lighting to create a relaxing atmosphere.",
+    "year": 2025,
+    "location": "Kolkata, India",
+    "rating": 4.8,
+    "image": "/src/assets/data6.png"
+  },
+  {
+    "id": 7,
+    "title": "Urban Living Space",
+    "category": "Living Room",
+    "description": "A modern urban living space designed for comfort with a balance of functionality and artistic details.",
+    "year": 2024,
+    "location": "Hyderabad, India",
+    "rating": 4.7,
+    "image": "/src/assets/data7.png"
+  },
+  {
+    "id": 8,
+    "title": "Warm Contemporary Home",
+    "category": "Residential",
+    "description": "A warm contemporary home featuring wooden elements, muted colors, and carefully selected furniture.",
+    "year": 2024,
+    "location": "Chennai, India",
+    "rating": 4.9,
+    "image": "/src/assets/data8.png"
+  },
+  {
+    "id": 9,
+    "title": "Boutique Office Interior",
+    "category": "Office",
+    "description": "A creative office interior designed to encourage productivity with open spaces, greenery, and modern furniture.",
+    "year": 2024,
+    "location": "Bangalore, India",
+    "rating": 4.6,
+    "image": "/src/assets/data9.png"
+  },
+  {
+    "id": 10,
+    "title": "Luxury Penthouse",
+    "category": "Residential",
+    "description": "A sophisticated penthouse featuring premium materials, panoramic views, and modern luxury interiors.",
+    "year": 2024,
+    "location": "Mumbai, India",
+    "rating": 5.0,
+    "image": "/src/assets/data10.png"
+  },
+  {
+    "id": 11,
+    "title": "Natural Living Room",
+    "category": "Living Room",
+    "description": "A nature-inspired living room combining indoor plants, natural wood, and soft neutral fabrics.",
+    "year": 2023,
+    "location": "Kolkata, India",
+    "rating": 4.8,
+    "image": "/src/assets/data11.png"
+  },
+  {
+    "id": 12,
+    "title": "Classic Modern Kitchen",
+    "category": "Kitchen",
+    "description": "A classic-modern kitchen blending traditional details with contemporary cabinetry and modern appliances.",
+    "year": 2023,
+    "location": "Delhi, India",
+    "rating": 4.7,
+    "image": "/src/assets/data12.png"
+  },
+  {
+    "id": 13,
+    "title": "Minimalist Home Office",
+    "category": "Office",
+    "description": "A compact minimalist home office designed with clean lines, functional storage, and natural lighting.",
+    "year": 2023,
+    "location": "Pune, India",
+    "rating": 4.5,
+    "image": "/src/assets/data13.png"
+  },
+  {
+    "id": 14,
+    "title": "Luxury Hotel Suite",
+    "category": "Hospitality",
+    "description": "A premium hotel suite designed with elegant furnishings, layered lighting, and luxurious textures.",
+    "year": 2023,
+    "location": "Goa, India",
+    "rating": 4.9,
+    "image": "/src/assets/data14.png"
+  },
+  {
+    "id": 15,
+    "title": "Bohemian Living Space",
+    "category": "Living Room",
+    "description": "A vibrant bohemian living space featuring handcrafted decor, layered textiles, and earthy tones.",
+    "year": 2022,
+    "location": "Jaipur, India",
+    "rating": 4.6,
+    "image": "/src/assets/data15.png"
+  },
+  {
+    "id": 16,
+    "title": "Modern Kids Bedroom",
+    "category": "Bedroom",
+    "description": "A playful and functional kids bedroom designed with soft colors, creative storage, and comfortable furniture.",
+    "year": 2022,
+    "location": "Kolkata, India",
+    "rating": 4.8,
+    "image": "/src/assets/data16.png"
+  },
+  {
+    "id": 17,
+    "title": "Industrial Cafe Interior",
+    "category": "Commercial",
+    "description": "An industrial-style cafe designed with exposed textures, metal accents, warm lighting, and wooden furniture.",
+    "year": 2022,
+    "location": "Bangalore, India",
+    "rating": 4.7,
+    "image": "/src/assets/data17.png"
+  },
+  {
+    "id": 18,
+    "title": "Serene Bathroom Retreat",
+    "category": "Bathroom",
+    "description": "A spa-inspired bathroom designed with natural stone, warm lighting, and a calming neutral palette.",
+    "year": 2022,
+    "location": "Mumbai, India",
+    "rating": 4.9,
+    "image": "/src/assets/data18.png"
+  },
+  {
+    "id": 19,
+    "title": "Art Deco Residence",
+    "category": "Residential",
+    "description": "An Art Deco-inspired residence featuring geometric patterns, elegant finishes, and statement furniture.",
+    "year": 2021,
+    "location": "Delhi, India",
+    "rating": 4.8,
+    "image": "/src/assets/data19.png"
+  },
+  {
+    "id": 20,
+    "title": "Modern Studio Apartment",
+    "category": "Residential",
+    "description": "A compact studio apartment optimized with multifunctional furniture, smart storage, and modern aesthetics.",
+    "year": 2021,
+    "location": "Kolkata, India",
+    "rating": 4.7,
+    "image": "/src/assets/data20.png"
+  }
+]

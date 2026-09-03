@@ -11,7 +11,7 @@ const ImageSection = ({ image, title,para }) => {
       />
 
       <div className="absolute inset-0 bg-black/20 group-hover:bg-black/30 transition-all duration-300" />
-       <p className="absolute bottom-12 left-4 sm:bottom-14 sm:left-5 md:bottom-16 md:left-6 text-white text-xs font-mono font-medium">{para}</p>
+       <p className="absolute top-4 left-4 sm:bottom-14 sm:left-5 md:top-4 md:left-6 text-white text-xs font-mono font-medium">{para}</p>
       <h2 className="absolute bottom-4 left-4 sm:bottom-5 sm:left-5 md:bottom-6 md:left-6 text-white text-xl sm:text-2xl md:text-3xl font-medium">
         {title}
       </h2>

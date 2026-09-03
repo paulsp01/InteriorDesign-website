@@ -6,6 +6,7 @@ import Services from './pages/Services'
 import Philosophy from './pages/Philosophy'
 import Inquiry from './pages/Inquiry'
 import Consultation from './pages/Consultation'
+import ProjectDetails from './pages/ProjectDetails'
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
          <Route path='/philosophy'  element={<Philosophy/>} />
            <Route path='/inquiry'  element={<Inquiry/>} />
             <Route path='/consultation'  element={<Consultation/>} />
+              <Route path='/works/:id'  element={<ProjectDetails/>} />
       </Route>
     </Routes>
     </>
